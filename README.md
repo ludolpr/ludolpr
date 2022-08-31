@@ -15,7 +15,7 @@ Actuellement en formation de Web developpeur et pationné depuis toujours par l'
 <h1 align="center">Mon parcous</h1>
 
 <div align="center">
-
+| Diplômes                    | Obtenue          |  année  |
 | :---                        | :----:           |    ---: |
 | Developpeur web & web mobile| yes              | 2020    |
 | Bac-pro pilote de ligne     | yes              | 2021    |
@@ -34,19 +34,14 @@ Actuellement en formation de Web developpeur et pationné depuis toujours par l'
 
 </div>
 
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 <h1 align="center">Langages, Technologies et Environnements:</h1>
-
-<div align="center">
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)<br>
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -58,7 +53,7 @@ Actuellement en formation de Web developpeur et pationné depuis toujours par l'
 
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![sass](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![npm](https://img.shields.io/npm/v/git?color=orange&label=git&logo=git&style=for-the-badge)
 <!-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
