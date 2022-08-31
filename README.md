@@ -3,7 +3,7 @@
 
 <center>
 
-Actuellement en formation de Web developpeur et pationné depuis toujours par l'informatique en générale . Pour le moment je ne peut pas dire quel sera m'a specialité, j'actualiserai cette partie une fois m'a formation terminée.
+Actuellement en formation de Web developpeur et pationné depuis toujours par l'informatique en générale vous voici sur mon profil Github<br>. Pour le moment je ne peut pas dire quel sera m'a specialité, j'actualiserai cette partie une fois m'a formation terminée.
 
 </center>
 
@@ -15,7 +15,8 @@ Actuellement en formation de Web developpeur et pationné depuis toujours par l'
 <h1 align="center">Mon parcous</h1>
 
 <div align="center">
-| Diplômes                    | Obtenue          |  année  |
+
+| Diplômes                    | Obtenue          |  Année  |
 | :---                        | :----:           |    ---: |
 | Developpeur web & web mobile| yes              | 2020    |
 | Bac-pro pilote de ligne     | yes              | 2021    |
@@ -42,6 +43,7 @@ Actuellement en formation de Web developpeur et pationné depuis toujours par l'
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>
+
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)<br>
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
