@@ -34,7 +34,13 @@ Actuellement en formation de Web developpeur et pationné depuis toujours par l'
  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=social)](https://www.linkedin.com/in/ludovic-leprout-7b1635244/)
 
 </div>
+<h1 align="center">Stats :</h1>
 
+<div align="center">
+ 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ludolpr&theme=chartreuse-dark&show_icons=true)
+ 
+ </div>
 
 <h1 align="center">Langages, Technologies et Environnements:</h1>
 <div align="center">
@@ -53,10 +59,4 @@ Actuellement en formation de Web developpeur et pationné depuis toujours par l'
 
 </div>
 
-<h1 align="center">Stats :</h1>
 
-<div align="center">
- 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ludolpr&theme=chartreuse-dark&show_icons=true)
- 
- </div>
