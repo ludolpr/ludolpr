@@ -12,7 +12,7 @@ Actuellement en formation de Web developpeur et pationné depuis toujours par l'
 - :smile: Mes pations: Informatique, Krav maga, Languages.
 
 
-<h1 align="center">Mon parcous</h1>
+<h1 align="center">Mon parcours</h1>
 
 <div align="center">
 
