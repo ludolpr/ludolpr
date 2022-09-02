@@ -39,7 +39,7 @@ Actuellement en formation de Web developpeur et pationné depuis toujours par l'
 <div align="center">
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ludolpr&theme=chartreuse-dark&show_icons=true) <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludolpr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  </div>
 
