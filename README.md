@@ -18,7 +18,7 @@ Actuellement en formation de Web developpeur et pationné depuis toujours par l'
 
 | Diplômes                    | Obtenue          |  Année  |
 | :---                        | :----:           |    ---: |
-| Developpeur web & web mobile|formation en cours| 2020    |
+| Developpeur web & web mobile|formation en cours| 2022    |
 | Bac-pro pilote de ligne     | Oui              | 2021    |
 
 </div>
