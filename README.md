@@ -38,11 +38,11 @@ Actuellement en formation de Web developpeur et pationné depuis toujours par l'
 
 <div align="center">
  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ludolpr&theme=chartreuse-dark&show_icons=true),[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ludolpr&theme=chartreuse-dark&show_icons=true)
 
  </div>
 <div align="center">
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  </div>
  
 <h1 align="center">Langages, Technologies et Environnements:</h1>
