@@ -3,13 +3,13 @@
 
 <center>
 
-Actuellement en formation de Web developpeur et pationné depuis toujours par l'informatique en générale vous voici sur mon profil Github<br>. Pour le moment je ne peut pas dire quel sera m'a specialité, j'actualiserai cette partie une fois m'a formation terminée.
+Actuellement en formation de Web développeur et passionné depuis toujours par l'informatique en général j'ai décidé de faire une reconversion professionnelle c'est pourquoi vous voici sur mon profil Github<br>. Pour le moment je ne peux pas dire quel sera ma spécialité, j'actualiserai cette partie une fois ma formation terminée.
 
 </center>
 
 - :email: ludolpr@gmail.com
 
-- :smile: Mes pations: Informatique, Krav maga, Languages.
+- :smile:  Mes passions: Informatique, Krav maga, Langages.
 
 
 <h1 align="center">Mon parcours</h1>
@@ -20,6 +20,8 @@ Actuellement en formation de Web developpeur et pationné depuis toujours par l'
 | :---                        | :----:           |    ---: |
 | Developpeur web & web mobile|formation en cours| 2022    |
 | Bac-pro pilote de ligne     | Oui              | 2021    |
+
+
 
 </div>
 
