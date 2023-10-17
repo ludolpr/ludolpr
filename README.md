@@ -47,15 +47,6 @@ Je me suis formé sur des architecture trois tiers de type MERN ( MongoDB, Expre
 
 </div>
 
-<h1 align="center">Statistiques :</h1>
-
-<div align="center">
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ludolpr&theme=chartreuse-dark&show_icons=true) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludolpr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
 <h1 align="center">Compétences :</h1>
 
 ### Langages et Technologies Front-End:
