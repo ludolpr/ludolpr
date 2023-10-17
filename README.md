@@ -75,7 +75,7 @@ Je me suis formé sur des architectures en trois tiers de type MERN (MongoDB, Ex
 </div>
 
 ### Outils et Environnements:
-<div align="center">
+<div align="left">
  
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
