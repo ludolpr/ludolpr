@@ -9,17 +9,18 @@ Actuellement en formation de Web développeur et passionné depuis toujours par 
 
 - :email: ludolpr@gmail.com
 
-- :smile:  Mes passions: Informatique, Krav maga, Langages.
+- :smile:  Mes passions: Informatique, jeux de société, casse-tête, Langues.
 
 
 <h1 align="center">Mon parcours</h1>
 
 <div align="center">
 
-| Diplômes                    | Obtenue          |  Année  |
-| :---                        | :----:           |    ---: |
-| Developpeur web & web mobile|formation en cours| 2022    |
-| Bac-pro pilote de ligne     | Oui              | 2021    |
+| Diplômes / compétences        | Obtenue / réalisé        |  Année  |
+| :---                          | :----:                   |    ---: |
+| Conception d'un réseau social | compétences aquis        | 2023
+| Developpeur web & web mobile  | Obtenue                  | 2022    |
+| Bac-pro pilote de ligne       | Oui                      | 2021    |
 
 
 
