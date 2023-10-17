@@ -1,40 +1,36 @@
-<h1 align="center">Salut :hand:, je m'appelle Ludovic</h1>
-<p align="center">Developpeur web / Concepteur developpeur d'application</p>
+<h1 align="center">Salut :wave:, je m'appelle Ludovic</h1>
+<p align="center">Développeur web / Concepteur développeur d'applications</p>
 
 <center>
 
-Je me suis formé sur des architecture trois tiers de type MERN ( MongoDB, Express, React, Node ) afin de build des applications avec cordova. Passionné depuis toujours par l'informatique en général je continue ma monté en compétences, actuellement je travail sur un projet en Laravel, GraphQL et VueJS.
+Je me suis formé sur des architectures en trois tiers de type MERN (MongoDB, Express, React, Node) pour construire des applications avec Cordova. Passionné depuis toujours par l'informatique en général, je continue à développer mes compétences. Actuellement, je travaille sur un projet en Laravel, GraphQL et Vue.js.
 
 </center>
 
 - :email: ludolpr@gmail.com
 
-- :smile:  Mes passions: Informatique, jeux de société, casse-tête, Langues.
-
+- :smile:  Mes passions : Informatique, jeux de société, casse-tête, langues.
 
 <h1 align="center">Mon parcours</h1>
 
 <div align="center">
 
-| Diplômes / compétences        | Obtenue / réalisé        |  Année  |
+| Diplômes / compétences        | Obtenu / réalisé        |  Année  |
 | :---                          | :----:                   |    ---: |
-| Conception d'un réseau social | compétences aquis        | 2023
-| Developpeur web & web mobile  | Obtenue                  | 2022    |
-| Bac-pro pilote de ligne       | Oui                      | 2021    |
-
-
+| Conception d'un réseau social | Compétences acquises        | 2023    |
+| Développeur web & web mobile  | Obtenu                  | 2022    |
+| Bac Pro Pilote de Ligne       | Oui                      | 2021    |
 
 </div>
 
-
-<h1 align="center">Connect with me:</h1>
+<h1 align="center">Connectez-vous avec moi :</h1>
 
 <div align="center">
 
 ![GitHub dernier commit](liens)
 ![GitHub followers](liens)
 ![GitHub watchers](liens)
- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=social)](https://www.linkedin.com/in/ludovic-leprout-7b1635244/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=social)](https://www.linkedin.com/in/ludovic-leprout-7b1635244/)
 
 </div>
 
@@ -52,7 +48,7 @@ Je me suis formé sur des architecture trois tiers de type MERN ( MongoDB, Expre
 ### Langages et Technologies Front-End:
 <div align="center">
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -87,16 +83,3 @@ Je me suis formé sur des architecture trois tiers de type MERN ( MongoDB, Expre
 ![Cordova](https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=white)
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
