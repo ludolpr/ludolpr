@@ -50,7 +50,7 @@ Je me suis formé sur des architectures en trois tiers de type MERN (MongoDB, Ex
  
  ### Langages et Technologies Front-End:
  
-![HTML5](https://img.shields.io/badge/HTML5-90%25-brightgreen?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-maitrisé25-brightgreen?style=for-the-badge)
  
 ![HTML5](https://img.shields.io/badge/HTML5-10%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
