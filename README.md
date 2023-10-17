@@ -3,7 +3,7 @@
 
 <center>
 
-Actuellement en formation de Web développeur et passionné depuis toujours par l'informatique en général j'ai décidé de faire une reconversion professionnelle c'est pourquoi vous voici sur mon profil Github<br>. Pour le moment je ne peux pas dire quel sera ma spécialité, j'actualiserai cette partie une fois ma formation terminée.
+Je me suis formé sur des architecture trois tiers de type MERN ( MongoDB, Express, React, Node ) afin de build des applications avec cordova. Passionné depuis toujours par l'informatique en général je continue ma monté en compétences, actuellement je travail sur du Laravel, GraphQL et VueJS.
 
 </center>
 
