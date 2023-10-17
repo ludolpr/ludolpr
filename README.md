@@ -3,7 +3,7 @@
 
 <center>
 
-Je me suis formé sur des architecture trois tiers de type MERN ( MongoDB, Express, React, Node ) afin de build des applications avec cordova. Passionné depuis toujours par l'informatique en général je continue ma monté en compétences, actuellement je travail sur du Laravel, GraphQL et VueJS.
+Je me suis formé sur des architecture trois tiers de type MERN ( MongoDB, Express, React, Node ) afin de build des applications avec cordova. Passionné depuis toujours par l'informatique en général je continue ma monté en compétences, actuellement je travail sur un projet en Laravel, GraphQL et VueJS.
 
 </center>
 
