@@ -46,7 +46,7 @@ Je me suis formé sur des architectures en trois tiers de type MERN (MongoDB, Ex
 <h1 align="center">Compétences :</h1>
 
 ### Langages et Technologies Front-End:
-<div align="center">
+<div align="left">
  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -58,7 +58,7 @@ Je me suis formé sur des architectures en trois tiers de type MERN (MongoDB, Ex
 </div>
 
 ### Langages et Technologies Back-End:
-<div align="center">
+<div align="left">
  
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -68,7 +68,7 @@ Je me suis formé sur des architectures en trois tiers de type MERN (MongoDB, Ex
 </div>
 
 ### Base de données:
-<div align="center">
+<div align="left">
  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -84,7 +84,7 @@ Je me suis formé sur des architectures en trois tiers de type MERN (MongoDB, Ex
 </div>
 
 ### Mobile:
-<div align="center">
+<div align="left">
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Cordova](https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=white)
 
