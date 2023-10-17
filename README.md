@@ -89,6 +89,13 @@ Je me suis formé sur des architectures en trois tiers de type MERN (MongoDB, Ex
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 </div>
 
+
+<div align="center">
+
+ ### Gestion de fichiers et protocoles réseau:
+![FileZilla](https://img.shields.io/badge/FileZilla-%23B9B6B3.svg?style=for-the-badge&logo=filezilla&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-%23007A88.svg?style=for-the-badge&logo=ssh&logoColor=white)
+
 <div align="center">
  
 ### Mobile:
