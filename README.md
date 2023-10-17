@@ -45,8 +45,9 @@ Je me suis formé sur des architectures en trois tiers de type MERN (MongoDB, Ex
 
 <h1 align="center">Compétences :</h1>
 
-### Langages et Technologies Front-End:
+
 <div align="center">
+ ### Langages et Technologies Front-End:
  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
