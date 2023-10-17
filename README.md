@@ -37,14 +37,6 @@ Je me suis formé sur des architecture trois tiers de type MERN ( MongoDB, Expre
  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=social)](https://www.linkedin.com/in/ludovic-leprout-7b1635244/)
 
 </div>
-<h1 align="center">Stats :</h1>
-
-<div align="center">
- 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ludolpr&theme=chartreuse-dark&show_icons=true) <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludolpr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
- </div>
 
 <h1 align="center">Statistiques :</h1>
 
@@ -60,7 +52,7 @@ Je me suis formé sur des architecture trois tiers de type MERN ( MongoDB, Expre
 ### Langages et Technologies Front-End:
 <div align="center">
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
