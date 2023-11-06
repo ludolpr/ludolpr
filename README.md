@@ -45,11 +45,6 @@ Je me suis formé sur des architectures en trois tiers de type MERN (MongoDB, Ex
 
 <h1 align="center">Compétences :</h1>
 
-
-<div align="center">
-
-<h1 align="center">Compétences :</h1>
-
 <div align="center">
  
  ### Langages et Technologies Front-End:
