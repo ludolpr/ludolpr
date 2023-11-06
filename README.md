@@ -1,3 +1,53 @@
+<h1 align="center">Salut :wave:, je m'appelle Ludovic</h1>
+<p align="center">Développeur web / Concepteur développeur d'applications</p>
+
+<center>
+
+Je me suis formé sur des architectures en trois tiers de type MERN (MongoDB, Express, React, Node) pour construire des applications avec Cordova. Passionné depuis toujours par l'informatique en général, je continue à développer mes compétences. Actuellement, je travaille sur un projet en Laravel, GraphQL et Vue.js.
+
+</center>
+
+- :email: ludolpr@gmail.com
+
+- :smile:  Mes passions : Informatique, jeux de société, casse-tête, langues.
+
+<h1 align="center">Mon parcours</h1>
+
+<div align="center">
+
+| Diplômes / compétences        | Obtenu / réalisé        |  Année  |
+| :---                          | :----:                   |    ---: |
+| Conception d'un réseau social | Compétences acquises        | 2023    |
+| Développeur web & web mobile  | Obtenu                  | 2022    |
+| Bac Pro Pilote de Ligne       | Oui                      | 2021    |
+
+</div>
+
+<h1 align="center">Connectez-vous avec moi :</h1>
+
+<div align="center">
+
+![GitHub dernier commit](liens)
+![GitHub followers](liens)
+![GitHub watchers](liens)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=social)](https://www.linkedin.com/in/ludovic-leprout-7b1635244/)
+
+</div>
+
+<h1 align="center">Statistiques :</h1>
+
+<div align="center">
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ludolpr&theme=chartreuse-dark&show_icons=true) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludolpr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<h1 align="center">Compétences :</h1>
+
+
+<div align="center">
+
 <h1 align="center">Compétences :</h1>
 
 <div align="center">
