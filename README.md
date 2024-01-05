@@ -26,10 +26,12 @@ Je me suis formé sur des architectures en trois tiers de type MERN (MongoDB, Ex
 <h1 align="center">Connectez-vous avec moi :</h1>
 
 <div align="center">
-
+<!-- -->
+ <!--
 ![GitHub dernier commit](liens)
 ![GitHub followers](liens)
 ![GitHub watchers](liens)
+ -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=social)](https://www.linkedin.com/in/ludovic-leprout-7b1635244/)
 
 </div>
