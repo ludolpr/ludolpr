@@ -1,6 +1,11 @@
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">GitHub Readme Stats</h2>
+ <p align="center">Obtenez des statistiques GitHub générées dynamiquement sur vos Readme !</p>
+
 <h1 align="center">Salut :wave:, je m'appelle Ludovic</h1>
 <p align="center">Développeur web / Concepteur développeur d'applications</p>
-
+</p>
 <center>
 
 Je me suis formé sur des architectures en trois tiers de type MERN (MongoDB, Express, React, Node) pour construire des applications avec Cordova. Passionné depuis toujours par l'informatique en général, je continue à développer mes compétences. Actuellement, je travaille sur un projet en Laravel, GraphQL et Vue.js.
