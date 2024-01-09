@@ -21,7 +21,6 @@ Je me suis formé sur des architectures en trois tiers de type MERN (MongoDB, Ex
 
 | Diplômes / compétences        | Obtenu / réalisé        |  Année  ||
 | :---                          | :----:                  |    ---: |
-| se forme seul                 | veille technologique    | 2023 / 2024 |
 | Conception d'un réseau social | Compétences acquises    | 2023    |
 | Développeur web & web mobile  | Obtenu                  | 2022    |
 
