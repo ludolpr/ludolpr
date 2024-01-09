@@ -46,8 +46,11 @@ Je me suis formé sur des architectures en trois tiers de type MERN (MongoDB, Ex
 
 <div align="center">
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ludolpr&theme=onedark_icons=true) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludolpr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://raw.githubusercontent.com/ludolpr/ludolpr72/master/profile-summary-card-output/codeSTACKr/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ludolpr/ludolpr72/master/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ludolpr/ludolpr72/master/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ludolpr/ludolpr72/master/profile-summary-card-output/codeSTACKr/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ludolpr/ludolpr72/master/profile-summary-card-output/codeSTACKr/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 </div>
 
