@@ -1,7 +1,6 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Obtenez des statistiques GitHub générées dynamiquement sur vos Readme !</p>
 
 <h1 align="center">Salut :wave:, je m'appelle Ludovic</h1>
 <p align="center">Développeur web / Concepteur développeur d'applications</p>
