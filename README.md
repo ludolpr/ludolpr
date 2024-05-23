@@ -1,132 +1,114 @@
 <p align="center">
- 
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme</h2>
- <p align="center">Obtenez des statistiques GitHub générées dynamiquement sur vos Readme !</p>
+  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+  <h2 align="center">GitHub Readme</h2>
+  <p align="center">Obtenez des statistiques GitHub générées dynamiquement sur vos Readme !</p>
 </p>
 
 <center>
-
 Je me suis formé sur des architectures en trois tiers de type MERN (MongoDB, Express, React, Node) pour construire des applications avec Cordova. Passionné depuis toujours par l'informatique en général, je continue à développer mes compétences. Actuellement, je travaille sur un projet en Laravel, GraphQL et Vue.js.
-
 </center>
 
 - :email: ludolpr@gmail.com
-
-- :smile:  Mes passions : Informatique, jeux de société, casse-tête, langues.
+- :smile: Mes passions : Informatique, jeux de société, casse-tête, langues.
 
 <h1 align="center">Mon parcours</h1>
 
 <div align="center">
-
-| Diplômes / compétences        | Obtenu / réalisé        |  Année  |
-| :---                          | :----:                  |    ---: |
-| Concepteur Développeur d'application                          | en cours                | mai/nov 2024 |
-|           :----:              | veille technologique    |2023 / 2024 |
-| Conception d'un réseau social | Compétences acquises    | 2023    |
-| Développeur web & web mobile  | Obtenu                  | 2022    |
-
+  <table>
+    <tr>
+      <th>Diplômes / compétences</th>
+      <th>Obtenu / réalisé</th>
+      <th>Année</th>
+    </tr>
+    <tr>
+      <td>Concepteur Développeur d'application</td>
+      <td>En cours</td>
+      <td>mai/nov 2024</td>
+    </tr>
+    <tr>
+      <td>Veille technologique</td>
+      <td>Compétences acquises</td>
+      <td>2023 / 2024</td>
+    </tr>
+    <tr>
+      <td>Conception d'un réseau social</td>
+      <td>Compétences acquises</td>
+      <td>2023</td>
+    </tr>
+    <tr>
+      <td>Développeur web & web mobile</td>
+      <td>Obtenu</td>
+      <td>2022</td>
+    </tr>
+  </table>
 </div>
 
 <h1 align="center">Connectez-vous avec moi :</h1>
 
 <div align="center">
- 
-
- 
- <!--
-![GitHub dernier commit](liens)
-![GitHub followers](liens)
-![GitHub watchers](liens)
- -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=social)](https://www.linkedin.com/in/ludovic-leprout-7b1635244/)
-
+  <a href="https://www.linkedin.com/in/ludovic-leprout-7b1635244/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
 
 <h1 align="center">Statistiques :</h1>
 
 <div align="center">
- <!--  
-[![](https://raw.githubusercontent.com/ludolpr/ludolpr72/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
--->
- 
-[![](https://raw.githubusercontent.com/ludolpr/ludolpr72/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ludolpr/ludolpr72/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ludolpr/ludolpr72/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ludolpr/ludolpr72/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/ludolpr/ludolpr72/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg" alt="Repos per language">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/ludolpr/ludolpr72/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg" alt="Most commit language">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/ludolpr/ludolpr72/master/profile-summary-card-output/nord_bright/3-stats.svg" alt="Stats">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/ludolpr/ludolpr72/master/profile-summary-card-output/nord_bright/4-productive-time.svg" alt="Productive time">
+  </a>
 </div>
 
 <h1 align="center">Compétences :</h1>
 
 <div align="center">
- 
- ### Langages et Technologies Front-End:
- 
-<!-- Vos autres compétences Front-End ici -->
 
-![HTML5](https://img.shields.io/badge/HTML5-10%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### Langages et Technologies Front-End:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-<!-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) -->
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-</div>
+### Langages et Technologies Back-End:
 
-<div align="center">
-
-### Langages et Technologies Back-End: 
-
-<!-- Vos autres compétences Back-End ici -->
-<!-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) -->
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
-
-</div>
-
-<div align="center">
-
- ### Base de données:
- 
-<!-- Vos autres compétences en base de données ici -->
+### Bases de données:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="center">
+### Outils et Environnements:
 
-### Outils et Environnements: 
-<!-- Vos autres outils et environnements ici -->
-
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-</div>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<div align="center">
+### Gestion de fichiers et protocoles réseau:
 
- ### Gestion de fichiers et protocoles réseau:
-<!-- Vos autres compétences en gestion de fichiers et protocoles réseau ici -->
+![FileZilla](https://img.shields.io/badge/FileZilla-B9B6B3?style=for-the-badge&logo=filezilla&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-007A88?style=for-the-badge&logo=ssh&logoColor=white)
+![FTP](https://img.shields.io/badge/FTP-009639?style=for-the-badge&logo=ftp&logoColor=white)
 
-![FileZilla](https://img.shields.io/badge/FileZilla-%23B9B6B3.svg?style=for-the-badge&logo=filezilla&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-%23007A88.svg?style=for-the-badge&logo=ssh&logoColor=white)
-![FTP](https://img.shields.io/badge/FTP-%23009639.svg?style=for-the-badge&logo=ftp&logoColor=white)
-
-</div>
-
-<div align="center">
- 
 ### Mobile:
-<!-- Vos autres compétences mobile ici -->
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Cordova](https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=white)
-
 
 </div>
