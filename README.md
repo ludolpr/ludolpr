@@ -9,7 +9,7 @@ Je me suis formé sur des architectures en trois tiers de type MERN (MongoDB, Ex
 </center>
 
 - :email: ludolpr@gmail.com
-- :smile: Mes passions : Informatique, jeux de société, casse-tête, langues.
+- :smile: Mes passions : Informatique, jeux de société, casse-tête, langues, series, films.
 
 <h1 align="center">Mon parcours</h1>
 
