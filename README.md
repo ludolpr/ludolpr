@@ -1,15 +1,19 @@
 <p align="center">
   <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
-  <h2 align="center">GitHub Readme</h2>
+  <h2 align="center"> Bienvenue sur mon GitHub ! 👋</h2>
   <p align="center">Obtenez des statistiques GitHub générées dynamiquement sur vos Readme !</p>
 </p>
 
 <center>
-Je me suis formé sur des architectures en trois tiers de type MERN (MongoDB, Express, React, Node) pour construire des applications avec Cordova. Passionné depuis toujours par l'informatique en général, je continue à développer mes compétences. Actuellement, je travaille sur un projet en Laravel, GraphQL et Vue.js.
-</center>
+Salut ! Je suis Leprout Ludovic, un passionné d'informatique, jeux de société, casse-tête, langues, séries, et films. Merci de visiter mon profil GitHub.
 
-- :email: ludolpr@gmail.com
-- :smile: Mes passions : Informatique, jeux de société, casse-tête, langues, series, films.
+## À propos de moi
+
+- 🎓 Je suis actuellement en formation de CDA (Concepteur Développeur d'Application).
+- 🌱 Actuellement, j'apprends activement de nouvelles compétences et technologies pour améliorer mes compétences en développement.
+- 💼 J'aime travailler sur des projets en Node.js, Express, et React, que ce soit de manière collaborative ou individuelle.
+- 📫 Vous pouvez me contacter à [ludolpr@gmail.com](mailto:ludolpr@gmail.com).
+</center>
 
 <h1 align="center">Mon parcours</h1>
 
