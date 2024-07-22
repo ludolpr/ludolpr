@@ -9,8 +9,8 @@ Salut ! Je suis Leprout Ludovic, un passionné d'informatique, jeux de société
 ## À propos de moi
 
 - 🎓 Je suis actuellement en formation de CDA (Concepteur Développeur d'Application).
-- 🌱 Actuellement, j'apprends activement de nouvelles compétences et technologies pour améliorer mon code.
-- 💼 J'aime travailler sur des projets en Node.js, Express, et React, que ce soit de manière collaborative ou individuelle.
+- 🌱 Actuellement, j'apprends activement de nouvelles technologies pour améliorer mon code.
+- 💼 J'aime travailler sur des projets en Node.js(npm), Express, et React, laravel que ce soit de manière collaborative ou individuelle.
 - 📫 Vous pouvez me contacter à [ludolpr@gmail.com](mailto:ludolpr@gmail.com).
 </center>
 
