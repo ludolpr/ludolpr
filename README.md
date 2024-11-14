@@ -80,25 +80,26 @@
   <h3>Langages et Technologies Back-End:</h3>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB" alt="Express.js">
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Eloquent">
   
   <h3>Compétences DevOps et CI/CD:</h3>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Dockerfile-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Dockerfile">
+  <img src="https://img.shields.io/badge/DockerCompose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose">
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin">
+  <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML">
+  <img src="https://img.shields.io/badge/VPS-343434?style=for-the-badge&logo=linux&logoColor=white" alt="VPS">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/PHPUnit-4B8BBE?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   
   <h3>Bases de données:</h3>
   <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-
-  <h3>Outils et Environnements:</h3>
-  <img src="https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-</div>
+  <img src="https://[_{{{CITATION{{{_1{](https://github.com/Komari-Koshigaya/general-command/tree/713e33dd063f628343a01cebb33f5e1233258b78/github%2FREADME.md)[_{{{CITATION{{{_2{](https://github.com/diveshkswn/github-readme-stats-divesh/tree/7eeec484698335ba2822d929c0cc8799be3e6ce9/readme.md)[_{{{CITATION{{{_3{](https://github.com/ishikabansal04/ishikabansal04/tree/5ced138e138bfa1ffaddf6c88723518fca0e43be/README.md)[_{{{CITATION{{{_4{](https://github.com/Aashrut/Aashrut/tree/347f996a54859dd942590eae7e18b5bccd27f080/README.md)[_{{{CITATION{{{_5{](https://github.com/marcopla/marcopla/tree/00f1d6974bf7927cbac93fd12ff9511b643f54ae/README.md)[_{{{CITATION{{{_6{](https://github.com/ferhatbostanci/ferhatbostanci/tree/c1ada3ca9191de24ff8ad23f6945340756da5396/README.md)[_{{{CITATION{{{_7{](https://github.com/suprim12/suprim12/tree/6a0940d59905ac8b1e37c621383d0842d9215465/README.md)[_{{{CITATION{{{_8{](https://github.com/WilliamForbesJr/WilliamForbesJr/tree/58a0f05d385e84ae33ee253c65bfadf06bb0ca4d/README.md)
