@@ -10,7 +10,7 @@
 ## À propos de moi
 - Je suis actuellement en formation de CDA (Concepteur Développeur d'Application).
 - J'apprends activement de nouvelles technologies pour améliorer mon code.
-- J'aime travailler sur des projets en Node.js(npm), Express, et React, Laravel que ce soit de manière collaborative ou individuelle.
+- J'aime travailler sur des projets en Node.js, Express, React, Laravel, et bien d'autres technologies, que ce soit de manière collaborative ou individuelle.
 - Vous pouvez me contacter à [ludolpr@gmail.com](mailto:ludolpr@gmail.com).
 
 <h1 align="center">Mon parcours</h1>
@@ -24,7 +24,7 @@
     <tr>
       <td>Concepteur Développeur d'application</td>
       <td>En cours</td>
-      <td>mai/nov 2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>Veille technologique</td>
@@ -84,7 +84,15 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-
+  
+  <h3>Compétences DevOps et CI/CD:</h3>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin">
+  
   <h3>Bases de données:</h3>
   <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -92,4 +100,5 @@
   <h3>Outils et Environnements:</h3>
   <img src="https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+</div>
