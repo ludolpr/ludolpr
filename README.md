@@ -8,10 +8,10 @@
 </p>
 
 ## À propos de moi
-- Je suis actuellement en formation de CDA (Concepteur Développeur d'Application).
-- J'apprends activement de nouvelles technologies pour améliorer mon code.
-- J'aime travailler sur des projets en Node.js, Express, React, Laravel, et bien d'autres technologies, que ce soit de manière collaborative ou individuelle.
-- Vous pouvez me contacter à [ludolpr@gmail.com](mailto:ludolpr@gmail.com).
+- 📚 Actuellement en formation de **CDA (Concepteur Développeur d'Application)**
+- 🚀 Toujours en quête de nouvelles technologies pour améliorer mes compétences
+- 💡 Passionné par les projets collaboratifs ou individuels en **Node.js, Express, React, Laravel**, et bien d'autres
+- 📧 Contactez-moi : [ludolpr@gmail.com](mailto:ludolpr@gmail.com)
 
 <h1 align="center">Mon parcours</h1>
 <div align="center">
@@ -92,12 +92,4 @@
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx">
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin">
   <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML">
-  <img src="https://img.shields.io/badge/VPS-343434?style=for-the-badge&logo=linux&logoColor=white" alt="VPS">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
-  <img src="https://img.shields.io/badge/PHPUnit-4B8BBE?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  
-  <h3>Bases de données:</h3>
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</div>
+  <img src="https://img.shields.io/badge/VPS-343434?style=for-the-badge&logo=linux&logoColor=white"
