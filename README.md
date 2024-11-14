@@ -99,4 +99,5 @@
   
   <h3>Bases de données:</h3>
   <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://[_{{{CITATION{{{_1{](https://github.com/Komari-Koshigaya/general-command/tree/713e33dd063f628343a01cebb33f5e1233258b78/github%2FREADME.md)[_{{{CITATION{{{_2{](https://github.com/diveshkswn/github-readme-stats-divesh/tree/7eeec484698335ba2822d929c0cc8799be3e6ce9/readme.md)[_{{{CITATION{{{_3{](https://github.com/ishikabansal04/ishikabansal04/tree/5ced138e138bfa1ffaddf6c88723518fca0e43be/README.md)[_{{{CITATION{{{_4{](https://github.com/Aashrut/Aashrut/tree/347f996a54859dd942590eae7e18b5bccd27f080/README.md)[_{{{CITATION{{{_5{](https://github.com/marcopla/marcopla/tree/00f1d6974bf7927cbac93fd12ff9511b643f54ae/README.md)[_{{{CITATION{{{_6{](https://github.com/ferhatbostanci/ferhatbostanci/tree/c1ada3ca9191de24ff8ad23f6945340756da5396/README.md)[_{{{CITATION{{{_7{](https://github.com/suprim12/suprim12/tree/6a0940d59905ac8b1e37c621383d0842d9215465/README.md)[_{{{CITATION{{{_8{](https://github.com/WilliamForbesJr/WilliamForbesJr/tree/58a0f05d385e84ae33ee253c65bfadf06bb0ca4d/README.md)
+  <img src="https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</div>
