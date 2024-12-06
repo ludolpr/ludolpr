@@ -23,7 +23,7 @@
     </tr>
     <tr>
       <td>Concepteur Développeur d'application</td>
-      <td>En cours</td>
+      <td>Obtenu</td>
       <td>2024</td>
     </tr>
     <tr>
